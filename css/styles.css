@@ -760,3 +760,13 @@ color: var(--accent-color);
   top: 50%;
   /* transform: translateY(-50%); */
 }
+
+.checkbox{
+appearance: none;
+position: absolute
+};
+
+.modal-checkbox-icon{
+
+  fill: currentColor;
+}
